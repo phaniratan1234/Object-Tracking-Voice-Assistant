@@ -1,4 +1,3 @@
-@sneha 
 
 Tracking Objects from live feed over a Voice Assistant
 -------------------------------------------------------
