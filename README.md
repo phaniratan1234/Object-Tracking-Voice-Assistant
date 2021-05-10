@@ -154,6 +154,6 @@ Block 7
 
 **To run the modules on an independent machine and cover-up an API that provides service to the voice assistant from the LIVE feed tracking**
 
-[Practical Implementation](https://www.dropbox.com/s/nrojv9eeeym4e51/Object%20tracking%20Voice%20Assistant.mp4?dl=0)
+[Practical Implementation](https://drive.google.com/file/d/1y5Rw6geMx-1gqFu_oZ7n-LwgVJQNBqPC/view?usp=sharing)
 
 
